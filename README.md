@@ -1,4 +1,4 @@
-# Image and Video Processing: from Mars To Hollywood with a Stop at The Hospital
+# Image and Video Processing: From Mars To Hollywood with a Stop at The Hospital
 __By Duke University__
 
 ## Index
@@ -18,5 +18,6 @@ __By Duke University__
 
 ## Week 1
 ### Quizzes
+- [Quiz #1](week-1/quiz-1.md)
 
 ### Programming Assignments (Optional)

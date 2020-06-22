@@ -4,7 +4,7 @@ __By Duke University__
 ## Index
 | Week | Links | 
 |:----:|:-----:|
-| [Week 1](#week-1) | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
+| [Week 1](#week-1) | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments-optional) |
 | [Week 2]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
 | [Week 3]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
 | [Week 4]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |

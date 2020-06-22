@@ -24,3 +24,4 @@ __By Duke University__
 - [Reduce Number of Intensity Levels in an image](week-1/reducePixelIntensityLevels.m)
 - [Perform Sample Spatial Average](week-1/spatialAverage.m)
 - [Rotate Image](week-1/rotateImage.m)
+- [Reduce Spatial Resolution by Taking Average](week-1/reduceImageSpatialResolution.m)

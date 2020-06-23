@@ -25,3 +25,10 @@ __By Duke University__
 - [Perform Sample Spatial Average](week-1/spatialAverage.m)
 - [Rotate Image](week-1/rotateImage.m)
 - [Reduce Spatial Resolution by Taking Average](week-1/reduceImageSpatialResolution.m)
+
+## Week 2
+### Quizzes
+- [Quiz #2](week-2/quiz-2.md)
+
+### Programming Assignments (Optional)
+- []()

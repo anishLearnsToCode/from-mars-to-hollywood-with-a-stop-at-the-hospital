@@ -31,4 +31,5 @@ __By Duke University__
 - [Quiz #2](week-2/quiz-2.md)
 
 ### Programming Assignments (Optional)
-- []()
+- [DCT Implementation](week-2/dctTest.m)
+- [Channel Separation of an Image into RGB](week-2/test.m)

@@ -5,15 +5,15 @@ __By Duke University__
 | Week | Links | 
 |:----:|:-----:|
 | [Week 1](#week-1) | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments-optional) |
-| [Week 2]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 3]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 4]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 5]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 6]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 7]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 8]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 9]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
-| [Week 10]() | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments) |
+| [Week 2](#week-2) | [[Quizzes]](#quizzes-1)    [[Programming Assignments]](#programming-assignments-optional-1) |
+| [Week 3](#week-3) | [[Quizzes]](#quizzes-2)    [[Programming Assignments]](#programming-assignments-optional-2) |
+| [Week 4](#week-4) | [[Quizzes]](#quizzes-3)    [[Programming Assignments]](#programming-assignments-optional-3) |
+| [Week 5](#week-5) | [[Quizzes]](#quizzes-4)    [[Programming Assignments]](#programming-assignments-optional-4) |
+| [Week 6](#week-6) | [[Quizzes]](#quizzes-5)    [[Programming Assignments]](#programming-assignments-optional-5) |
+| [Week 7](#week-7) | [[Quizzes]](#quizzes-6)    [[Programming Assignments]](#programming-assignments-optional-6) |
+| [Week 8](#week-8) | [[Quizzes]](#quizzes-7)    [[Programming Assignments]](#programming-assignments-optional-7) |
+| [Week 9](#week-9) | [[Quizzes]](#quizzes-8)    [[Programming Assignments]](#programming-assignments-optional-8) |
+| [Week 10](#week-10) | [[Quizzes]](#quizzes-9)    [[Programming Assignments]](#programming-assignments-optional-9) |
 
 
 ## Week 1

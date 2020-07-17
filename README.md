@@ -45,3 +45,5 @@ __By Duke University__
 
 ### Programming Assignments (Optional)
 - [Histogram Equalization](week-3/histogramEqualization.m)
+- [Median Filtering](week-3/median_filtering.m)
+- [Unsharp Operation](week-3/unsharp_operation.m)

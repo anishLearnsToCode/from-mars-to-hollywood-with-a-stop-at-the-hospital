@@ -44,6 +44,12 @@ __By Duke University__
 - [Quiz #3](week-3/quiz-3.md)
 
 ### Programming Assignments (Optional)
+- [Exponential Transform](week-3/exponentialTransform.m)
+- [log Transform](week-3/logTransform.m)
+- [Intensity Range Transform](week-3/intensityRangeTransformation.m)
+- [Inverse Transform point Operations](week-3/inverseTransformPointOperation.m)
+- [Thresholding Point Operation](week-3/thresholdingPointOperation.m)
 - [Histogram Equalization](week-3/histogramEqualization.m)
+- [Histogram Matching](week-3/histogramMatching.m)
 - [Median Filtering](week-3/median_filtering.m)
 - [Unsharp Operation](week-3/unsharp_operation.m)

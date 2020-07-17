@@ -1,6 +1,11 @@
 # Image and Video Processing: From Mars To Hollywood with a Stop at The Hospital
 __By Duke University__
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
+![made-with-MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+
 ## Index
 | Week | Links | 
 |:----:|:-----:|
@@ -33,3 +38,10 @@ __By Duke University__
 ### Programming Assignments (Optional)
 - [DCT Implementation](week-2/dctTest.m)
 - [Channel Separation of an Image into RGB](week-2/test.m)
+
+## Week 3
+### Quizzes
+- [Quiz #3](week-3/quiz-3.md)
+
+### Programming Assignments (Optional)
+- [Histogram Equalization](week-3/histogramEqualization.m)

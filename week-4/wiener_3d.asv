@@ -1,0 +1,35 @@
+clc;
+clear;
+close all;
+
+I = imread('../lenna.png');
+[r, g, b] = channels(I);
+J = compose_rgb(r, g, b);
+
+subplot(1, 2, 1); imshow(I);
+subplot(1, 2, 2); imshow(J);
+
+function wiener3(I, window)
+    [r, g, b] = channels(I);
+    r = wiener2(r, window);
+    g = wiener2(g, window);
+    b = wiener2(b, window);
+end
+
+function err = rms_error(I1, I2)
+    err = sum(sum(I1 - I2) .^ 2);
+end
+
+function I = compose_rgb(r, g, b)
+    [m, n] = size(r);
+    I = uint8(zeros(m, n, 3));
+    I(:, :, 1) = r;
+    I(:, :, 2) = g;
+    I(:, :, 3) = b;
+end
+
+function [r, g, b] = channels(I)
+    r = I(:, :, 1);
+    g = I(:, :, 2);
+    b = I(:, :, 3);
+end

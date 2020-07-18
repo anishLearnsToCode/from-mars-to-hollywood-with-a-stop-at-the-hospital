@@ -53,3 +53,18 @@ __By Duke University__
 - [Histogram Matching](week-3/histogramMatching.m)
 - [Median Filtering](week-3/median_filtering.m)
 - [Unsharp Operation](week-3/unsharp_operation.m)
+
+## Week 4
+### Quizzes
+- [Quiz #4](week-4/quiz-4.md)
+
+### Programming Assignments (Optional)
+- [Types of Noise](week-4/noise_in_images.m)
+- [Wiener Filtering on grayscale Image](week-4/weiner_filter.m)
+- [Wiener Filtering on Color Images](week-4/wiener_3d.m)
+
+## Week 5
+### Quizzes
+- [Quiz 5](week-5)
+
+### Programming Assignments (Optional)

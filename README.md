@@ -68,3 +68,4 @@ __By Duke University__
 - [Quiz 5](week-5)
 
 ### Programming Assignments (Optional)
+- [Perform Hough Transform to Detect Straight Lines in Image](week-5/hough_transform.m)

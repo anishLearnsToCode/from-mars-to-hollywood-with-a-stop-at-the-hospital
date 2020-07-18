@@ -8,7 +8,7 @@
 
 So, i went with the honest answer and entered No and that was wrong apparently. So, there is in fact a correct answer
 and honesty is no longer the best policy. 
-![Question 6](assets/question-6.png)
+![Question 6](assets/question-6-2.png)
 
 ![Question 7](assets/question-7.png)
 ![Question 8](assets/question-8.png)

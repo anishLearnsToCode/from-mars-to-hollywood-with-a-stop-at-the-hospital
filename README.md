@@ -69,3 +69,4 @@ __By Duke University__
 
 ### Programming Assignments (Optional)
 - [Perform Hough Transform to Detect Straight Lines in Image](week-5/hough_transform.m)
+- [Thresholding with Otsu's Method](week-5/otsu_thresholding_method.m)

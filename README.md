@@ -65,8 +65,23 @@ __By Duke University__
 
 ## Week 5
 ### Quizzes
-- [Quiz 5](week-5)
+- [Quiz 5](week-5/quiz-5.md)
 
 ### Programming Assignments (Optional)
 - [Perform Hough Transform to Detect Straight Lines in Image](week-5/hough_transform.m)
 - [Thresholding with Otsu's Method](week-5/otsu_thresholding_method.m)
+
+## Week 6
+### Quizzes
+
+### Programming Assignments (Optional)
+
+## Week 7
+### Quizzes
+
+### Programming Assignments (Optional)
+
+## Week 8
+### Quizzes
+
+### Programming Assignments (Optional)

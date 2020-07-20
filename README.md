@@ -16,7 +16,7 @@ __By Duke University__
 | [Week 5](#week-5) | [[Quizzes]](#quizzes-4)    [[Programming Assignments]](#programming-assignments-optional-4) |
 | [Week 6](#week-6) | [[Quizzes]](#quizzes-5) |
 | [Week 7](#week-7) | [[Quizzes]](#quizzes-6) |
-| [Week 8](#week-8) | [[Quizzes]](#quizzes-7)    [[Programming Assignments]](#programming-assignments-optional-7) |
+| [Week 8](#week-8) | [[Quizzes]](#quizzes-7) |
 | [Week 9](#week-9) | [[Quizzes]](#quizzes-8)    [[Programming Assignments]](#programming-assignments-optional-8) |
 
 
@@ -80,5 +80,4 @@ __By Duke University__
 
 ## Week 8
 ### Quizzes
-
-### Programming Assignments (Optional)
+- [Quiz 8](week-8/quiz-8.md)

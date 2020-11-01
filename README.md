@@ -1,23 +1,18 @@
 # Image and Video Processing: From Mars To Hollywood with a Stop at The Hospital
 __By Duke University__
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
-![made-with-MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 
-## Index
-| Week | Links | 
-|:----:|:-----:|
-| [Week 1](#week-1) | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments-optional) |
-| [Week 2](#week-2) | [[Quizzes]](#quizzes-1)    [[Programming Assignments]](#programming-assignments-optional-1) |
-| [Week 3](#week-3) | [[Quizzes]](#quizzes-2)    [[Programming Assignments]](#programming-assignments-optional-2) |
-| [Week 4](#week-4) | [[Quizzes]](#quizzes-3)    [[Programming Assignments]](#programming-assignments-optional-3) |
-| [Week 5](#week-5) | [[Quizzes]](#quizzes-4)    [[Programming Assignments]](#programming-assignments-optional-4) |
-| [Week 6](#week-6) | [[Quizzes]](#quizzes-5) |
-| [Week 7](#week-7) | [[Quizzes]](#quizzes-6) |
-| [Week 8](#week-8) | [[Quizzes]](#quizzes-7) |
-
+## 📖 Overview
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Week 7](#week-7)
+- [Week 8](#week-8)
+- [Certificate](#-certificate)
 
 ## Week 1
 ### Quizzes
@@ -81,5 +76,5 @@ __By Duke University__
 ### Quizzes
 - [Quiz 8](week-8/quiz-8.md)
 
-## [Certificate](https://www.coursera.org/verify/JPV9JYDEZVBQ)
-![Certificate](certificate.PNG)
+## 🎓 [Certificate](https://www.coursera.org/verify/JPV9JYDEZVBQ)
+![certificate](assets/certificate.PNG)
